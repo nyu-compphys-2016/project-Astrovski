@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Numerical\040Method}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{1D\040MHD\040in\040Cartesian\040coordinates}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Algorithm}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Numerical\040Tests}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Dai\040&\040Woodward\040shock\040tube\040test}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Brio\040&\040Wu\040test}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Alfvén Wave realization}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.4}{Fast\040Switch-on\040\(FS\)\040shock}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.5}{Slow\040Switch-off\040\(SS\)\040shock}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.6}{Fast\040switch-off\040Rarefaction\040\(FR\)\040wave}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.7}{Slow\040switch-on\040Rarefaction\040\(SR\)\040wave}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Conclusions}{}% 13

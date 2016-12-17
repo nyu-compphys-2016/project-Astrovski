@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{DW1994}
+Wenlong Dai and Paul~R Woodward.
+\newblock An approximate riemann solver for ideal magnetohydrodynamics.
+\newblock {\em Journal of Computational Physics}, 111(2):354--372, 1994.
+
+\bibitem{falle1998}
+SAEG Falle, SS~Komissarov, and P~Joarder.
+\newblock A multidimensional upwind scheme for magnetohydrodynamics.
+\newblock {\em Monthly Notices of the Royal Astronomical Society},
+  297(1):265--277, 1998.
+
+\bibitem{miyoshi2005multi}
+Takahiro Miyoshi and Kanya Kusano.
+\newblock A multi-state hll approximate riemann solver for ideal
+  magnetohydrodynamics.
+\newblock {\em Journal of Computational Physics}, 208(1):315--344, 2005.
+
+\bibitem{stone2008athena}
+James~M Stone, Thomas~A Gardiner, Peter Teuben, John~F Hawley, and Jacob~B
+  Simon.
+\newblock Athena: a new code for astrophysical mhd.
+\newblock {\em The Astrophysical Journal Supplement Series}, 178(1):137, 2008.
+
+\end{thebibliography}
